@@ -6,11 +6,11 @@
       },
       {
         "name": "Shangri-La Hotel",
-        "location": [25.2084, 55.2719]
+        "position": [25.2084, 55.2719]
       },
       {
         "name": "Grand Hyatt",
-        "location": [25.2285, 55.3273]
+        "position": [25.2285, 55.3273]
       }
     ]
   }
